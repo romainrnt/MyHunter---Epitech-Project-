@@ -3,7 +3,7 @@
 - Fun Project 
 - 💻 C / CSFML 💻
 
-## Features
+### Features
 
 - The program handles the input from mouse clicks.
 - The program contains animated sprites that are rendered using sprite sheets.
@@ -13,7 +13,7 @@
 - The program also includes background music.
 - The window was closed using events.
 
-## Tech
+### Tech
 
 - [CSFML](https://www.sfml-dev.org/download/csfml/index-fr.php) : Graphical Library useful for compiling
 - [C](https://www.scaler.com/topics/c/install-c-on-linux/) : Low Level language
@@ -22,7 +22,7 @@
 
 !MyHunter requires [CSFML](https://www.sfml-dev.org/download/csfml/index-fr.php) to run!
 
-#### Usage
+### Usage
 
 Compile this project (at the root) :
 
