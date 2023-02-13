@@ -13,14 +13,14 @@
 - The program also includes background music.
 - The window was closed using events.
 
-### Tech
+### Techno
 
 - [CSFML](https://www.sfml-dev.org/download/csfml/index-fr.php) : Graphical Library useful for compiling
 - [C](https://www.scaler.com/topics/c/install-c-on-linux/) : Low Level language
 
 ### Installation
 
-!MyHunter requires [CSFML](https://www.sfml-dev.org/download/csfml/index-fr.php) to run!
+MyHunter requires [CSFML](https://www.sfml-dev.org/download/csfml/index-fr.php) to run.
 
 ### Usage
 
