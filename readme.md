@@ -1,4 +1,4 @@
-#MyHunter - Epitech Project CSFML
+# MyHunter - Epitech Project CSFML
 
 - Fun Project 
 - 💻 C / CSFML 💻
