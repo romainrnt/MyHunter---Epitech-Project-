@@ -5,7 +5,7 @@
 ## make
 ##
 
-SRC     = 	src/destroy.c	\
+SRC     = 		src/destroy.c	\
 			src/display.c	\
 			src/draw_sprite.c	\
 			src/move_sprite.c	\
@@ -33,4 +33,4 @@ clean:
 fclean: clean
 	rm -f $(NAME)
 
-re:     flcean all
+re:     fclean all
